@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HubRakyran</string>
+
+
+    //profile
+    <string name="profile_name">Captain America</string>
+    <string name="username">\@captain_america</string>
+</resources>
